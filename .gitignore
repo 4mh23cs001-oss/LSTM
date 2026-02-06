@@ -1,0 +1,8 @@
+__pycache__/
+*.zip
+data/
+*.h5
+*.pkl
+# Optional: Decide if model/data should be pushed. 
+# Usually, models are too large, but 60MB is okay for GitHub.
+# I will NOT exclude .h5 and .pkl for now as they are part of the "module" needed for prediction.
